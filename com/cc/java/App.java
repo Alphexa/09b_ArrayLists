@@ -90,5 +90,13 @@ public class App {
 	}
 
 	
+	// ArrayList<Integer> intList = new ArrayList<>();
+	// intList.add(10);
+	// intList.add(11);
+	// intList.add(12);
+	
+	// System.out.println(intList);
+	
+	
 	
 }
